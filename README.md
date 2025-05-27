@@ -1,2 +1,2 @@
-#Micro IT
+#MICRO IT
 Stop Watch
